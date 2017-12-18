@@ -25,7 +25,7 @@ Installing this on Windows is very simple
 - Step 7: Type `npm start`
 
 ### Command Prompt
-- Step 1: Type `git clone https://github.com/TheTetrabyte/twitch-spotify-bot.git`
+- Step 1: Type `git clone https://github.com/TheTetrabyte/spotify-twitch-bot.git`
 - Step 2: Type `cd twitch-spotify-bot`
 - Step 3: Rename the `config.js.example` file to `config.js` and then change the login twitch login details and channels to listen to.
 - Step 4: Type `npm i`

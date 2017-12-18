@@ -1,5 +1,5 @@
 {
-  "name": "twitch-spotify-bot",
+  "name": "spotify-twitch-bot",
   "version": "1.0.0",
   "description": "Twitch bot that can connect to your local spotify client and be controlled from chat.",
   "main": "app.js",
@@ -7,11 +7,26 @@
     "start": "node app.js"
   },
   "author": "TheTetrabyte",
-  "license": "ISC",
+  "license": "GPL-3.0",
   "dependencies": {
     "colors": "^1.1.2",
     "node-spotify-helper": "^0.4.7",
     "tmi.js": "^1.2.1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheTetrabyte/spotify-twitch-bot.git"
+  },
+  "keywords": [
+    "spotify",
+    "twitch",
+    "streaming",
+    "music",
+    "bot"
+  ],
+  "bugs": {
+    "url": "https://github.com/TheTetrabyte/spotify-twitch-bot/issues"
+  },
+  "homepage": "https://github.com/TheTetrabyte/spotify-twitch-bot#readme"
 }
