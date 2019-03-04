@@ -1,6 +1,8 @@
 ## Spotify Twitch Bot
 Use twitch chat to control your spotify client
 
+## DO KEEP IN MIND THIS IS OUT OF DATE AND I WILL UPDATE IT SOON, THE WAY THIS CURRENTLY IS SETUP TO WORK IS WITH THE SPOTIFY WEB HELPER AND THAT HAS BEEN DISCONTINUED.
+
 ___
 
 ## Dependencies
